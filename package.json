@@ -1,0 +1,14 @@
+{
+  "name": "autoaskassist",
+  "version": "1.0.0",
+  "description": "Standalone app for AutoAskAssist",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.7"
+  }
+}
